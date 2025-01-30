@@ -1,0 +1,7 @@
+program ures
+polynomial a;
+polynomial b;
+begin
+    evaluate(4x^2+3x+1);
+
+end
