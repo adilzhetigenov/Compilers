@@ -10,3 +10,8 @@ Syntactical Analysis i.e. the allowed sentential forms and sentences(statements,
 
 ## Semantical Analysis a.k.a. assembly code generation
 Semantical Analysis i.e. the allowed functionality that the Language provides(written on an assembly) is in **While.y** file as well.
+
+
+## Files
+**End1** is the base folder where the whole working While language is presented
+**End2, End3, EndPractice** are only presenting files that differs from the base folder
